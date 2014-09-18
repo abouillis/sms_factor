@@ -4,7 +4,8 @@ Gem::Specification.new do |s|
   s.date          = '2013-05-02'
   s.summary       = "An easy way to send SMS through SmsFactor API"
   s.description   = "An easy way to use API SMS of http://www.smsfactor.com/ (http://www.smsfactor.com/SMS-integration-API-HTML)"
-  s.authors       = ["Julien Séveno"]
+
+  s.authors       = [ "Julien Séveno" ]
   s.email         = 'jseveno@gmail.com'
   s.files         = [
                       "lib/sms_factor.rb",
